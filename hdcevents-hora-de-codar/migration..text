@@ -1,0 +1,9 @@
+Para Criar uma tabela : php artisan make:migration create_NOME-DA-TABELA
+
+Para fazer um reset : php artisan migrate:fresh
+
+Para Atualizar:
+
+Para verificar quais estao rodando : php artisan status
+
+E para criar essa tabela : php artisan migrate
